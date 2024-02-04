@@ -20,12 +20,12 @@ The performance of the model is measured using IoU (Intersection over Union)
 Binary Cross Entropy is the loss function and Adam is the optimizer.
 
 ## Results
-IoU (Training data) = 
-IoU (Validation data) = 
+IoU (Training data) = 0.9566
+
+IoU (Validation data) = 0.9616
 
 Example output:
 
 ![output](https://github.com/NeerajNixon/Image_Segmentation/assets/92161269/4185bbbf-2e27-4ce1-880c-1fc48819aa14)
 
-
-
+![output2](https://github.com/NeerajNixon/Image_Segmentation/assets/92161269/2da3125c-f268-4d9f-8121-83651a783dba)
